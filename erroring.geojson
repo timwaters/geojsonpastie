@@ -1,0 +1,4385 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995925108554,
+              40.724601050312
+            ],
+            [
+              -73.995978752733,
+              40.724523806772
+            ],
+            [
+              -73.995922715671,
+              40.724488983022
+            ],
+            [
+              -73.995868685725,
+              40.724565726592
+            ],
+            [
+              -73.995925108554,
+              40.724601050312
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "ca87a0a78ddcaf42",
+        "population": null,
+        "is_composite": null,
+        "name": "1 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97271"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995734671714,
+              40.724491283149
+            ],
+            [
+              -73.995792390208,
+              40.724407993315
+            ],
+            [
+              -73.995745398625,
+              40.72437879075
+            ],
+            [
+              -73.995673496343,
+              40.724451329274
+            ],
+            [
+              -73.995734671714,
+              40.724491283149
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "0a72d2ffd14e211d",
+        "population": null,
+        "is_composite": null,
+        "name": "7 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97273"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995866099955,
+              40.724682359205
+            ],
+            [
+              -73.995892922046,
+              40.72464983566
+            ],
+            [
+              -73.995836093985,
+              40.724617081649
+            ],
+            [
+              -73.995812312878,
+              40.724650588256
+            ],
+            [
+              -73.995866099955,
+              40.724682359205
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "ef1737a54d4d54f9",
+        "population": null,
+        "is_composite": null,
+        "name": "1 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97281"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995616297162,
+              40.72441554135
+            ],
+            [
+              -73.995689938933,
+              40.724344325727
+            ],
+            [
+              -73.995634928309,
+              40.724310139756
+            ],
+            [
+              -73.995561731667,
+              40.724381401231
+            ],
+            [
+              -73.995616297162,
+              40.72441554135
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "acd29d3146f2b51c",
+        "population": null,
+        "is_composite": null,
+        "name": "11 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97272"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995716504516,
+              40.724280006833
+            ],
+            [
+              -73.995773597732,
+              40.724193970658
+            ],
+            [
+              -73.995720241918,
+              40.724162001041
+            ],
+            [
+              -73.995665772106,
+              40.724248764313
+            ],
+            [
+              -73.995716504516,
+              40.724280006833
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "72372c2cd1fb7133",
+        "population": null,
+        "is_composite": null,
+        "name": "10 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97289"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.996001680584,
+              40.724378888572
+            ],
+            [
+              -73.995961773231,
+              40.724434274812
+            ],
+            [
+              -73.995892922046,
+              40.724391679455
+            ],
+            [
+              -73.995930472972,
+              40.724336795723
+            ],
+            [
+              -73.996001680584,
+              40.724378888572
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "d2ee67e9a25efd5b",
+        "population": null,
+        "is_composite": null,
+        "name": "4 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97297"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995720241918,
+              40.724162001041
+            ],
+            [
+              -73.995665772106,
+              40.724248764313
+            ],
+            [
+              -73.995613972308,
+              40.724216864448
+            ],
+            [
+              -73.995666634198,
+              40.724129880473
+            ],
+            [
+              -73.995720241918,
+              40.724162001041
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "22a79c4aa9b6c785",
+        "population": null,
+        "is_composite": null,
+        "name": "12 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97292"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995673496343,
+              40.724451329274
+            ],
+            [
+              -73.995745398625,
+              40.72437879075
+            ],
+            [
+              -73.995689938933,
+              40.724344325727
+            ],
+            [
+              -73.995616297162,
+              40.72441554135
+            ],
+            [
+              -73.995673496343,
+              40.724451329274
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "846a82356f83320c",
+        "population": null,
+        "is_composite": null,
+        "name": "9 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97274"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9958051234,
+              40.72452593314
+            ],
+            [
+              -73.995857184064,
+              40.724448258946
+            ],
+            [
+              -73.995792390208,
+              40.724407993315
+            ],
+            [
+              -73.995740036131,
+              40.724485184967
+            ],
+            [
+              -73.9958051234,
+              40.72452593314
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "6a684f5ba14f5387",
+        "population": null,
+        "is_composite": null,
+        "name": "5 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97277"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995922715671,
+              40.724488983022
+            ],
+            [
+              -73.995868685725,
+              40.724565726592
+            ],
+            [
+              -73.9958051234,
+              40.72452593314
+            ],
+            [
+              -73.995857184064,
+              40.724448258946
+            ],
+            [
+              -73.995922715671,
+              40.724488983022
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "72b07189c20504e0",
+        "population": null,
+        "is_composite": null,
+        "name": "3 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97278"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995812312878,
+              40.724650588256
+            ],
+            [
+              -73.995839277865,
+              40.724609181206
+            ],
+            [
+              -73.995775647855,
+              40.724572332103
+            ],
+            [
+              -73.995745128107,
+              40.724610903537
+            ],
+            [
+              -73.995812312878,
+              40.724650588256
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "af7bae2e190fd116",
+        "population": null,
+        "is_composite": null,
+        "name": "3 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97280"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.996024350287,
+              40.724472988604
+            ],
+            [
+              -73.996064583422,
+              40.72441607221
+            ],
+            [
+              -73.996001680584,
+              40.724378888572
+            ],
+            [
+              -73.995961773231,
+              40.724434274812
+            ],
+            [
+              -73.996024350287,
+              40.724472988604
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "f86ca34305305d35",
+        "population": null,
+        "is_composite": null,
+        "name": "2 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97283"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995877256408,
+              40.72427994735
+            ],
+            [
+              -73.995942920855,
+              40.724185220839
+            ],
+            [
+              -73.995888325771,
+              40.72415070124
+            ],
+            [
+              -73.995826609027,
+              40.724246540625
+            ],
+            [
+              -73.995877256408,
+              40.72427994735
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "afbda6de49ab6654",
+        "population": null,
+        "is_composite": null,
+        "name": "8 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97288"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995634928309,
+              40.724310139756
+            ],
+            [
+              -73.995561731667,
+              40.724381401231
+            ],
+            [
+              -73.995506683947,
+              40.72434695938
+            ],
+            [
+              -73.995579382757,
+              40.724275188141
+            ],
+            [
+              -73.995634928309,
+              40.724310139756
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "0c69b544625aefd4",
+        "population": null,
+        "is_composite": null,
+        "name": "13 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97275"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995514730575,
+              40.724338828455
+            ],
+            [
+              -73.995579382757,
+              40.724275188141
+            ],
+            [
+              -73.995525459411,
+              40.724241257268
+            ],
+            [
+              -73.995482544066,
+              40.724316468404
+            ],
+            [
+              -73.995514730575,
+              40.724338828455
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "eb433882da4faaf9",
+        "population": null,
+        "is_composite": null,
+        "name": "15 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97276"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995745128107,
+              40.724610903537
+            ],
+            [
+              -73.995775647855,
+              40.724572332103
+            ],
+            [
+              -73.995711219076,
+              40.7245350204
+            ],
+            [
+              -73.995683709743,
+              40.7245746249
+            ],
+            [
+              -73.995745128107,
+              40.724610903537
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "ef62695d8e76ad30",
+        "population": null,
+        "is_composite": null,
+        "name": "5 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97282"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995892922046,
+              40.724391679455
+            ],
+            [
+              -73.995938519599,
+              40.724328664796
+            ],
+            [
+              -73.995868188772,
+              40.724295159847
+            ],
+            [
+              -73.995828976645,
+              40.72435109298
+            ],
+            [
+              -73.995892922046,
+              40.724391679455
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "bb70c107b7648268",
+        "population": null,
+        "is_composite": null,
+        "name": "6 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97285"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995828976645,
+              40.72435109298
+            ],
+            [
+              -73.995877256408,
+              40.72427994735
+            ],
+            [
+              -73.995826609027,
+              40.724246540625
+            ],
+            [
+              -73.995780269267,
+              40.724318501136
+            ],
+            [
+              -73.995828976645,
+              40.72435109298
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "5dd98281da6b15de",
+        "population": null,
+        "is_composite": null,
+        "name": "8 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97286"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995773597732,
+              40.724193970658
+            ],
+            [
+              -73.995828549029,
+              40.724111162129
+            ],
+            [
+              -73.995774675361,
+              40.724078300004
+            ],
+            [
+              -73.995720241918,
+              40.724162001041
+            ],
+            [
+              -73.995773597732,
+              40.724193970658
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "df310abe6b781834",
+        "population": null,
+        "is_composite": null,
+        "name": "10 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97291"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995774675361,
+              40.724078300004
+            ],
+            [
+              -73.995720241918,
+              40.724162001041
+            ],
+            [
+              -73.995666634198,
+              40.724129880473
+            ],
+            [
+              -73.99571857846,
+              40.724044081723
+            ],
+            [
+              -73.995774675361,
+              40.724078300004
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "97ab8afb545c9b15",
+        "population": null,
+        "is_composite": null,
+        "name": "12 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97293"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995601742513,
+              40.723967568152
+            ],
+            [
+              -73.995553066442,
+              40.72405548819
+            ],
+            [
+              -73.995500097802,
+              40.724021812565
+            ],
+            [
+              -73.995548192577,
+              40.72393304127
+            ],
+            [
+              -73.995601742513,
+              40.723967568152
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "deae61458df58ac1",
+        "population": null,
+        "is_composite": null,
+        "name": "16 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [
+          {
+            "lang": "en",
+            "name": "269-271 Mulberry Street"
+          }
+        ],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97296"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995553066442,
+              40.72405548819
+            ],
+            [
+              -73.99550061205,
+              40.724145568863
+            ],
+            [
+              -73.995450333332,
+              40.724113665591
+            ],
+            [
+              -73.995500097802,
+              40.724021812565
+            ],
+            [
+              -73.995553066442,
+              40.72405548819
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "0298c15f865dee04",
+        "population": null,
+        "is_composite": null,
+        "name": "16 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [
+          {
+            "lang": "en",
+            "name": "269-271 Mulberry Street"
+          }
+        ],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97295"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995605021675,
+              40.724088519509
+            ],
+            [
+              -73.995553773661,
+              40.724179301397
+            ],
+            [
+              -73.99550061205,
+              40.724145568863
+            ],
+            [
+              -73.995553066442,
+              40.72405548819
+            ],
+            [
+              -73.995605021675,
+              40.724088519509
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "d806f016f056503c",
+        "population": null,
+        "is_composite": null,
+        "name": "14 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [
+          {
+            "lang": "en",
+            "name": "269-271 Mulberry Street"
+          }
+        ],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97294"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995605021675,
+              40.724088519509
+            ],
+            [
+              -73.995654205443,
+              40.724001394158
+            ],
+            [
+              -73.995601742513,
+              40.723967568152
+            ],
+            [
+              -73.995553066442,
+              40.72405548819
+            ],
+            [
+              -73.995605021675,
+              40.724088519509
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "6e49fbd0a9fb1549",
+        "population": null,
+        "is_composite": null,
+        "name": "14 Jersey Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [
+          {
+            "lang": "en",
+            "name": "269-271 Mulberry Street"
+          }
+        ],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97290"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.995507289687,
+              40.724273100564
+            ],
+            [
+              -73.995525459411,
+              40.724241257268
+            ],
+            [
+              -73.995394031115,
+              40.724161980612
+            ],
+            [
+              -73.995369137362,
+              40.724213029765
+            ],
+            [
+              -73.995507289687,
+              40.724273100564
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "HSE",
+        "id": "fe27a2d178f2be81",
+        "population": null,
+        "is_composite": null,
+        "name": "273 Mulberry Street",
+        "area": null,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [
+          {
+            "lang": "en",
+            "name": "17 Jersey Street"
+          }
+        ],
+        "feature_code_name": "house(s)",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1854-01-01",
+          "end": "1854-01-01",
+          "start_range": 0
+        },
+        "uris": [
+          "http://maps.nypl.org/warper/layers/861.buildings.97989"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.95956395471035,
+              41.357558293971124
+            ],
+            [
+              -73.98332295473256,
+              41.31740229393358
+            ],
+            [
+              -73.94578195469762,
+              41.28760329390593
+            ],
+            [
+              -73.97198395472196,
+              41.25149429387238
+            ],
+            [
+              -73.88748195464336,
+              41.13829529376676
+            ],
+            [
+              -73.89397995464947,
+              40.99719829363539
+            ],
+            [
+              -74.69639895539672,
+              41.357340293970765
+            ],
+            [
+              -74.69112995539172,
+              41.36732529398023
+            ],
+            [
+              -74.72695195542519,
+              41.39510229400594
+            ],
+            [
+              -73.99811195474626,
+              41.470225294076045
+            ],
+            [
+              -73.947354954699,
+              41.39525629400623
+            ],
+            [
+              -73.95956395471035,
+              41.357558293971124
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "ADM2H",
+        "id": "8f0835b0892c9f7a",
+        "population": null,
+        "is_composite": null,
+        "name": "ORANGE",
+        "area": 695.0,
+        "admin": [],
+        "is_primary": true,
+        "alternate": null,
+        "feature_code_name": "historical second-order administrative division",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1773-09-01",
+          "end": "1798-02-22",
+          "start_range": 0
+        },
+        "uris": [
+          "http://publications.newberry.org/ahcbp/downloads/united_states.html.counties.nys_orange.4"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.93592695468851,
+              42.008556294577375
+            ],
+            [
+              -73.96441395471493,
+              41.913148294488565
+            ],
+            [
+              -73.93929295469161,
+              41.86686129444547
+            ],
+            [
+              -73.95359195470496,
+              41.58648829418439
+            ],
+            [
+              -73.9965319547448,
+              41.52267529412484
+            ],
+            [
+              -73.99811195474626,
+              41.470225294076045
+            ],
+            [
+              -74.72695195542519,
+              41.39510229400594
+            ],
+            [
+              -74.74096295543814,
+              41.40512029401543
+            ],
+            [
+              -74.73845595543594,
+              41.43064229403922
+            ],
+            [
+              -74.79041695548426,
+              41.421661294030855
+            ],
+            [
+              -74.80758195550015,
+              41.442848294050464
+            ],
+            [
+              -74.83067195552167,
+              41.43050429403911
+            ],
+            [
+              -74.85857795554784,
+              41.44442829405193
+            ],
+            [
+              -74.89262495557955,
+              41.43861729404648
+            ],
+            [
+              -74.91299095559839,
+              41.47590129408127
+            ],
+            [
+              -74.98334095566383,
+              41.48089529408594
+            ],
+            [
+              -74.98437295566487,
+              41.506611294109916
+            ],
+            [
+              -75.00315195568237,
+              41.508101294111384
+            ],
+            [
+              -75.02475695570251,
+              41.535099294136444
+            ],
+            [
+              -75.01852495569665,
+              41.55180329415202
+            ],
+            [
+              -75.07461295574899,
+              41.60571229420225
+            ],
+            [
+              -75.04422495572067,
+              41.61797929421368
+            ],
+            [
+              -75.05273595572862,
+              41.688393294279194
+            ],
+            [
+              -75.06883095574358,
+              41.7081612942975
+            ],
+            [
+              -75.04986195572587,
+              41.71330929430246
+            ],
+            [
+              -75.05322795572897,
+              41.751662294338075
+            ],
+            [
+              -75.10463995577697,
+              41.77420329435904
+            ],
+            [
+              -75.07217195574663,
+              41.813732294396004
+            ],
+            [
+              -75.11333395578504,
+              41.822782294404306
+            ],
+            [
+              -75.11710395578848,
+              41.84546429442548
+            ],
+            [
+              -75.162853955831,
+              41.85058329443018
+            ],
+            [
+              -75.1725329558401,
+              41.87224029445042
+            ],
+            [
+              -75.18525395585198,
+              41.859931294438866
+            ],
+            [
+              -75.25873295592032,
+              41.86266029444141
+            ],
+            [
+              -75.29258895595194,
+              41.95389729452654
+            ],
+            [
+              -75.31281695597067,
+              41.95018329452296
+            ],
+            [
+              -75.34220395599823,
+              41.97287229454423
+            ],
+            [
+              -75.3411249559972,
+              41.992772294562656
+            ],
+            [
+              -75.3965619560488,
+              42.00660529457559
+            ],
+            [
+              -75.40725295605876,
+              42.022744294590666
+            ],
+            [
+              -73.92762695468082,
+              42.08694229465027
+            ],
+            [
+              -73.93592695468851,
+              42.008556294577375
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "ADM2H",
+        "id": "aa575ba92eaea7fb",
+        "population": null,
+        "is_composite": null,
+        "name": "ULSTER",
+        "area": 2598.0,
+        "admin": [],
+        "is_primary": true,
+        "alternate": null,
+        "feature_code_name": "historical second-order administrative division",
+        "timeframe": {
+          "end_range": 0,
+          "start": "1773-09-01",
+          "end": "1774-03-08",
+          "start_range": 0
+        },
+        "uris": [
+          "http://publications.newberry.org/ahcbp/downloads/united_states.html.counties.nys_ulster.4"
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              -74.67697050963962,
+              41.349042635232124,
+              [
+                -74.83839042538456,
+                38.98574915649454
+              ],
+              [
+                -74.8417664268673,
+                38.9934041579599
+              ],
+              [
+                -74.84678342860923,
+                38.99620615837196
+              ],
+              [
+                -74.85153543017995,
+                38.997392158460116
+              ],
+              [
+                -74.84611242877553,
+                39.00323615984103
+              ]
+            ],
+            [
+              -73.89398123570861,
+              40.997206593027904
+            ],
+            [
+              -73.929182240836,
+              40.88950757061166
+            ],
+            [
+              -74.01378526045828,
+              40.75661054150873
+            ],
+            [
+              -74.02518726121731,
+              40.70592953108431
+            ],
+            [
+              -74.07998727789291,
+              40.68891152588394
+            ],
+            [
+              -74.06678727232573,
+              40.66602452178255
+            ],
+            [
+              -74.08568727892346,
+              40.67491152291651
+            ],
+            [
+              -74.09558828223864,
+              40.67711152302275
+            ],
+            [
+              -74.10298728446602,
+              40.674411522240284
+            ],
+            [
+              -74.07059227325199,
+              40.660813520621694
+            ],
+            [
+              -74.10697628549225,
+              40.66992352121679
+            ],
+            [
+              -74.08518727752094,
+              40.65331151864634
+            ],
+            [
+              -74.14377229581967,
+              40.643526514749624
+            ],
+            [
+              -74.08108728116413,
+              40.73952853588088
+            ],
+            [
+              -74.12220529346476,
+              40.72313553125923
+            ],
+            [
+              -74.13358729521298,
+              40.68991152429308
+            ],
+            [
+              -74.13927329736056,
+              40.69539952519111
+            ],
+            [
+              -74.15334730217376,
+              40.700266525685414
+            ],
+            [
+              -74.13640429608002,
+              40.68921752406122
+            ],
+            [
+              -74.16018930362296,
+              40.687210522867915
+            ],
+            [
+              -74.13998929635183,
+              40.67391152090584
+            ],
+            [
+              -74.20269031421638,
+              40.63371151083177
+            ],
+            [
+              -74.21811931504519,
+              40.561883496044835
+            ],
+            [
+              -74.25249132562784,
+              40.553713493270635
+            ],
+            [
+              -74.25188732350843,
+              40.52021148662574
+            ],
+            [
+              -74.28784333368914,
+              40.496265480656184
+            ],
+            [
+              -74.20718930429761,
+              40.435515471241466
+            ],
+            [
+              -74.17958929675177,
+              40.458715476787106
+            ],
+            [
+              -74.15778828905553,
+              40.44661547509902
+            ],
+            [
+              -74.14408928540568,
+              40.459843478192454
+            ],
+            [
+              -73.98454123098777,
+              40.40468947246194
+            ],
+            [
+              -73.98106622875767,
+              40.38493846862858
+            ],
+            [
+              -74.02408424313232,
+              40.39461746914507
+            ],
+            [
+              -74.01628224002091,
+              40.38392246726483
+            ],
+            [
+              -74.07746925817204,
+              40.357126459887574
+            ],
+            [
+              -73.97884522753824,
+              40.37595946690633
+            ],
+            [
+              -73.97869322655224,
+              40.35930246357963
+            ],
+            [
+              -74.0091842353515,
+              40.341518459017735
+            ],
+            [
+              -74.02670324132173,
+              40.347572459651914
+            ],
+            [
+              -74.03059624195906,
+              40.336671457342426
+            ],
+            [
+              -74.01238423612678,
+              40.33701845801166
+            ],
+            [
+              -74.04722124624634,
+              40.31794445304614
+            ],
+            [
+              -73.99730923091904,
+              40.330549457213266
+            ],
+            [
+              -74.00908323338065,
+              40.30701945211437
+            ],
+            [
+              -73.99548323019248,
+              40.32806145677524
+            ],
+            [
+              -73.98218322569747,
+              40.32411945642341
+            ],
+            [
+              -73.99778323140137,
+              40.336423458373375
+            ],
+            [
+              -73.97788322500054,
+              40.336318459007
+            ],
+            [
+              -73.97368322468424,
+              40.35471846282727
+            ],
+            [
+              -73.97938322978771,
+              40.41281747425584
+            ],
+            [
+              -74.01718524550157,
+              40.47571548556395
+            ],
+            [
+              -73.99568423818901,
+              40.46871648487822
+            ],
+            [
+              -73.97828423098078,
+              40.440216479764366
+            ],
+            [
+              -73.97103022421348,
+              40.36151546427441
+            ],
+            [
+              -73.97413922194497,
+              40.30329345251667
+            ],
+            [
+              -74.06481323289375,
+              39.977130383958304
+            ],
+            [
+              -74.09790223189246,
+              39.766047340168726
+            ],
+            [
+              -74.11852523942102,
+              39.78308834295303
+            ],
+            [
+              -74.09565623205798,
+              39.78221934352153
+            ],
+            [
+              -74.07930123531183,
+              39.93683937534881
+            ],
+            [
+              -74.19838627421,
+              39.95067437424196
+            ],
+            [
+              -74.10563224317285,
+              39.92647237239379
+            ],
+            [
+              -74.13038325041146,
+              39.914027369069444
+            ],
+            [
+              -74.14181125225902,
+              39.881185362056215
+            ],
+            [
+              -74.13053624818302,
+              39.872701360708795
+            ],
+            [
+              -74.16249325827123,
+              39.87017335915249
+            ],
+            [
+              -74.128557246823,
+              39.85949635810181
+            ],
+            [
+              -74.15012225311389,
+              39.848406355152974
+            ],
+            [
+              -74.19264426205811,
+              39.76363033658979
+            ],
+            [
+              -74.19580926154006,
+              39.73571833082512
+            ],
+            [
+              -74.18293525655758,
+              39.71986732802825
+            ],
+            [
+              -74.15991124888392,
+              39.71412032761198
+            ],
+            [
+              -74.15851024826483,
+              39.71098532702112
+            ],
+            [
+              -74.18726225713608,
+              39.70515232489977
+            ],
+            [
+              -74.17360525239374,
+              39.69824032394126
+            ],
+            [
+              -74.20008826010324,
+              39.684439320274926
+            ],
+            [
+              -74.18977925632335,
+              39.675538318802495
+            ],
+            [
+              -74.21317326347155,
+              39.66956231682562
+            ],
+            [
+              -74.20805326239335,
+              39.6797703190666
+            ],
+            [
+              -74.20847126263432,
+              39.681738319452776
+            ],
+            [
+              -74.2180282647728,
+              39.664984315737144
+            ],
+            [
+              -74.21796026363471,
+              39.64452431158049
+            ],
+            [
+              -74.24958827371475,
+              39.644127310468185
+            ],
+            [
+              -74.26179427549428,
+              39.605300302173276
+            ],
+            [
+              -74.2832092828519,
+              39.61484330341588
+            ],
+            [
+              -74.33687329803408,
+              39.5791872944078
+            ],
+            [
+              -74.341539298722,
+              39.56451629126876
+            ],
+            [
+              -74.29805028342396,
+              39.538406287370705
+            ],
+            [
+              -74.29879328244336,
+              39.516000282779785
+            ],
+            [
+              -74.33262429292505,
+              39.51030028051467
+            ],
+            [
+              -74.32165229005395,
+              39.52185928322894
+            ],
+            [
+              -74.33470429565168,
+              39.548200288169596
+            ],
+            [
+              -74.39411831403798,
+              39.53782628411418
+            ],
+            [
+              -74.40356231832254,
+              39.561109288545474
+            ],
+            [
+              -74.41309232077774,
+              39.55042128605752
+            ],
+            [
+              -74.41710732264646,
+              39.56117628811526
+            ],
+            [
+              -74.46152833656869,
+              39.55671328574918
+            ],
+            [
+              -74.45574933410771,
+              39.545431283642614
+            ],
+            [
+              -74.44563933148567,
+              39.556418286210786
+            ],
+            [
+              -74.43919432840691,
+              39.537720282615695
+            ],
+            [
+              -74.4183513227152,
+              39.55518028685403
+            ],
+            [
+              -74.40894231674652,
+              39.50082327608953
+            ],
+            [
+              -74.37701730559064,
+              39.48287727347397
+            ],
+            [
+              -74.41085731657253,
+              39.48642927309232
+            ],
+            [
+              -74.41882631851426,
+              39.475437270590135
+            ],
+            [
+              -74.39877731185082,
+              39.47042927022411
+            ],
+            [
+              -74.39412130968805,
+              39.45794926782989
+            ],
+            [
+              -74.40410631304988,
+              39.461245268176235
+            ],
+            [
+              -74.41089031522786,
+              39.46153326801343
+            ],
+            [
+              -74.41141831529345,
+              39.4596452676109
+            ],
+            [
+              -74.39474530895077,
+              39.440717264292466
+            ],
+            [
+              -74.4162663155618,
+              39.43615726265888
+            ],
+            [
+              -74.44394732558757,
+              39.458301266272734
+            ],
+            [
+              -74.48489733628429,
+              39.415125256120405
+            ],
+            [
+              -74.49069733717425,
+              39.39752525233639
+            ],
+            [
+              -74.46159632792717,
+              39.39792525337004
+            ],
+            [
+              -74.47889733268252,
+              39.38402524996425
+            ],
+            [
+              -74.44713432135985,
+              39.361765246452045
+            ],
+            [
+              -74.52045534606947,
+              39.386840249179286
+            ],
+            [
+              -74.52119934464204,
+              39.3562242428982
+            ],
+            [
+              -74.53829934993887,
+              39.35352424178635
+            ],
+            [
+              -74.54060334963516,
+              39.334430237806785
+            ],
+            [
+              -74.54490035157275,
+              39.344924239812094
+            ],
+            [
+              -74.5554153551095,
+              39.3484212401824
+            ],
+            [
+              -74.56980135872612,
+              39.33072423609252
+            ],
+            [
+              -74.56740135647493,
+              39.30332423056571
+            ],
+            [
+              -74.58690236325491,
+              39.31392423209559
+            ],
+            [
+              -74.57345435946878,
+              39.32299823439253
+            ],
+            [
+              -74.61823437265744,
+              39.3035272289411
+            ],
+            [
+              -74.65286938454634,
+              39.31954823108045
+            ],
+            [
+              -74.6514443825583,
+              39.29135522536041
+            ],
+            [
+              -74.61464237040309,
+              39.2830622248708
+            ],
+            [
+              -74.62686337377384,
+              39.273559222524675
+            ],
+            [
+              -74.63051637404578,
+              39.25716321904759
+            ],
+            [
+              -74.62744337257766,
+              39.24810721729333
+            ],
+            [
+              -74.647034378367,
+              39.24000021499048
+            ],
+            [
+              -74.64848437822835,
+              39.228939212676494
+            ],
+            [
+              -74.66595838374323,
+              39.22821021195421
+            ],
+            [
+              -74.67013438384407,
+              39.20557920717867
+            ],
+            [
+              -74.7104283955242,
+              39.184844201605166
+            ],
+            [
+              -74.70030839081747,
+              39.1572881962843
+            ],
+            [
+              -74.75007040614737,
+              39.14850619284928
+            ],
+            [
+              -74.71749239469027,
+              39.127965189701435
+            ],
+            [
+              -74.75838940798614,
+              39.133678189532844
+            ],
+            [
+              -74.74904540423749,
+              39.11922718687258
+            ],
+            [
+              -74.75677840625067,
+              39.1110521849399
+            ],
+            [
+              -74.75744040622614,
+              39.10671018402636
+            ],
+            [
+              -74.75341940476389,
+              39.103275183452595
+            ],
+            [
+              -74.7730384113898,
+              39.11063018431942
+            ],
+            [
+              -74.79711541807717,
+              39.09297517990232
+            ],
+            [
+              -74.76546240613736,
+              39.05789417373071
+            ],
+            [
+              -74.78161641046013,
+              39.042995170137125
+            ],
+            [
+              -74.80368441893152,
+              39.07021417500967
+            ],
+            [
+              -74.82287942443342,
+              39.05932217214029
+            ],
+            [
+              -74.80189941648462,
+              39.035375167904625
+            ],
+            [
+              -74.85042443114042,
+              39.02172716350444
+            ],
+            [
+              -74.85263843056431,
+              38.99803115855539
+            ],
+            [
+              -74.85045042973742,
+              38.99556515811972
+            ],
+            [
+              -74.8434984274555,
+              38.994125158051396
+            ],
+            [
+              -74.84097442644664,
+              38.990257157337844
+            ],
+            [
+              -74.84551542742433,
+              38.981673155421525
+            ],
+            [
+              -74.8822594384255,
+              38.969647151739
+            ],
+            [
+              -74.87781643614063,
+              38.95337114853235
+            ],
+            [
+              -74.90613444499462,
+              38.95111814713835
+            ],
+            [
+              -74.87064043333146,
+              38.94343314671982
+            ],
+            [
+              -74.96158946147631,
+              38.930905141150596
+            ],
+            [
+              -74.97199746528466,
+              38.9403781427598
+            ],
+            [
+              -74.955393463314,
+              39.001246155836895
+            ],
+            [
+              -74.89779045033977,
+              39.09882117778917
+            ],
+            [
+              -74.88716945023471,
+              39.15883419045258
+            ],
+            [
+              -74.95126547217029,
+              39.18800419430962
+            ],
+            [
+              -75.02888649716066,
+              39.194569193077406
+            ],
+            [
+              -75.03567350045991,
+              39.215423197119755
+            ],
+            [
+              -75.10728852295848,
+              39.211411193912376
+            ],
+            [
+              -75.13684453056547,
+              39.179365186368635
+            ],
+            [
+              -75.15227953597339,
+              39.18868718776087
+            ],
+            [
+              -75.17406454568629,
+              39.23943519740999
+            ],
+            [
+              -75.2416405690418,
+              39.27410520222408
+            ],
+            [
+              -75.25127857352193,
+              39.29966920711642
+            ],
+            [
+              -75.28863458478484,
+              39.289199203722895
+            ],
+            [
+              -75.3259555994905,
+              39.34053821293002
+            ],
+            [
+              -75.36466361179818,
+              39.341121211739846
+            ],
+            [
+              -75.40873962839864,
+              39.38776321973983
+            ],
+            [
+              -75.43006463522974,
+              39.38897921926308
+            ],
+            [
+              -75.46521364920135,
+              39.43893922822131
+            ],
+            [
+              -75.87158203125,
+              39.01064750994083
+            ],
+            [
+              -75.5340156768188,
+              39.54071024651259
+            ],
+            [
+              -75.51273367219885,
+              39.578009254793756
+            ],
+            [
+              -75.55353568650732,
+              39.601705258187565
+            ],
+            [
+              -75.55944768999956,
+              39.62982126366854
+            ],
+            [
+              -75.47764266892338,
+              39.7150222836854
+            ],
+            [
+              -75.4594416660691,
+              39.76582229455503
+            ],
+            [
+              -75.35440163693968,
+              39.83992631308976
+            ],
+            [
+              -75.14542257294504,
+              39.884221329153554
+            ],
+            [
+              -75.12952156907271,
+              39.9050213338814
+            ],
+            [
+              -75.12692257147297,
+              39.961121345249204
+            ],
+            [
+              -74.94441351911574,
+              40.06321937196283
+            ],
+            [
+              -74.86091049362045,
+              40.083719378908704
+            ],
+            [
+              -74.82230948375427,
+              40.12671838883774
+            ],
+            [
+              -74.78210847056327,
+              40.12081838901554
+            ],
+            [
+              -74.72260545320874,
+              40.15001839687861
+            ],
+            [
+              -74.77070747232861,
+              40.21491740824543
+            ],
+            [
+              -74.84230949729543,
+              40.250516412931134
+            ],
+            [
+              -74.86821050817795,
+              40.29521542097405
+            ],
+            [
+              -74.93971253355531,
+              40.33801542706555
+            ],
+            [
+              -74.96550954528907,
+              40.3973454379946
+            ],
+            [
+              -75.0588505763854,
+              40.41807443890493
+            ],
+            [
+              -75.0682515867204,
+              40.54169046311307
+            ],
+            [
+              -75.11729460430836,
+              40.57321946765737
+            ],
+            [
+              -75.19235462840994,
+              40.574266465254766
+            ],
+            [
+              -75.20045363550453,
+              40.64922847979137
+            ],
+            [
+              -75.17680562952197,
+              40.67572348584815
+            ],
+            [
+              -75.2039226391636,
+              40.69150748801585
+            ],
+            [
+              -75.18208663458063,
+              40.73153049667195
+            ],
+            [
+              -75.19653464042923,
+              40.751640500129454
+            ],
+            [
+              -75.17158963401053,
+              40.77775450614571
+            ],
+            [
+              -75.13440262184166,
+              40.77377450666207
+            ],
+            [
+              -75.10850661458093,
+              40.791103510979084
+            ],
+            [
+              -75.08393060871215,
+              40.82448051840664
+            ],
+            [
+              -75.09578661388738,
+              40.84709052243982
+            ],
+            [
+              -75.0660166043605,
+              40.84760052357982
+            ],
+            [
+              -75.05103160064303,
+              40.86567152765604
+            ],
+            [
+              -75.673828125,
+              40.463666324587685
+            ],
+            [
+              -75.13470363399321,
+              40.97204754560617
+            ],
+            [
+              -75.13109863396195,
+              40.99047254934312
+            ],
+            [
+              -75.02577860312182,
+              41.03981456270105
+            ],
+            [
+              -75.0111346001062,
+              41.06753056863797
+            ],
+            [
+              -74.96912558776836,
+              41.0868125738807
+            ],
+            [
+              -74.99181659521287,
+              41.08914157354168
+            ],
+            [
+              -74.98221359329266,
+              41.108254577614765
+            ],
+            [
+              -74.92317057611496,
+              41.13815458552476
+            ],
+            [
+              -74.88214156551291,
+              41.1808445952962
+            ],
+            [
+              -74.85715356163851,
+              41.248983609460026
+            ],
+            [
+              -74.79414254575354,
+              41.321196625726316
+            ],
+            [
+              -74.7532415340863,
+              41.34613163200637
+            ],
+            [
+              -74.67697050963962,
+              41.349042635232124
+            ]
+          ],
+          [
+            [
+              -74.04989823307152,
+              40.06672040251035,
+              [
+                -74.83372942439844,
+                38.99488215852772
+              ],
+              [
+                -74.82908342355861,
+                39.00664416110129
+              ],
+              [
+                -74.82225642115883,
+                39.00228816042866
+              ]
+            ],
+            [
+              -74.1070252506695,
+              40.05383039804154
+            ],
+            [
+              -74.12199125606423,
+              40.06458539971631
+            ],
+            [
+              -74.1342852600347,
+              40.06512439942106
+            ],
+            [
+              -74.12677325689243,
+              40.05191739700791
+            ],
+            [
+              -74.05706223445034,
+              40.05016439894041
+            ],
+            [
+              -74.08618324169309,
+              40.01242539037987
+            ],
+            [
+              -74.14041426020476,
+              40.03286539272187
+            ],
+            [
+              -74.12548525479698,
+              40.02162839094728
+            ],
+            [
+              -74.14357726041172,
+              40.018350389692735
+            ],
+            [
+              -74.10694524836256,
+              40.01272238975962
+            ],
+            [
+              -74.14968026164392,
+              40.00532538686644
+            ],
+            [
+              -74.13082625439625,
+              39.983540383091245
+            ],
+            [
+              -74.1108842484613,
+              39.99172638539609
+            ],
+            [
+              -74.12568425252688,
+              39.9795263824499
+            ],
+            [
+              -74.1105782469741,
+              39.966622380340276
+            ],
+            [
+              -74.12754025216408,
+              39.96223037889844
+            ],
+            [
+              -74.11059424668694,
+              39.96133237927199
+            ],
+            [
+              -74.11398524708635,
+              39.948906376652076
+            ],
+            [
+              -74.08028223598897,
+              39.94341937664597
+            ],
+            [
+              -74.08545823878963,
+              39.964123380657796
+            ],
+            [
+              -74.04989823307152,
+              40.06672040251035
+            ]
+          ],
+          [
+            [
+              [
+                -74.79582641399301,
+                39.02489316594733
+              ],
+              [
+                -74.79277041125215,
+                38.9919751592714
+              ],
+              [
+                -74.8644594312104,
+                38.94041914630154
+              ],
+              [
+                -74.87273843467275,
+                38.956003149241226
+              ],
+              [
+                -74.86026043158631,
+                38.97214515297558
+              ],
+              [
+                -74.84054742536597,
+                38.972698153736076
+              ],
+              [
+                -74.81578741888816,
+                38.99822115980337
+              ],
+              [
+                -74.82452242203351,
+                39.00518616095085
+              ],
+              [
+                -74.81758941964006,
+                39.00157316043435
+              ],
+              [
+                -74.81360841841146,
+                39.00220516069505
+              ],
+              [
+                -74.81340241825458,
+                39.0005041603515
+              ],
+              [
+                -74.81299641821794,
+                39.002214160716825
+              ],
+              [
+                -74.81795141982876,
+                39.00294316070453
+              ],
+              [
+                -74.81481241893182,
+                39.00477416118427
+              ],
+              [
+                -74.8094474170607,
+                39.001625160712
+              ],
+              [
+                -74.79833441387538,
+                39.00793516237511
+              ],
+              [
+                -74.79582641399301,
+                39.02489316594733
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.80078641551732,
+                39.02397816559633
+              ],
+              [
+                -74.79921341415768,
+                39.00799916235949
+              ],
+              [
+                -74.81231741813423,
+                39.004660161242775
+              ],
+              [
+                -74.81167041913717,
+                39.027082165878
+              ],
+              [
+                -74.80078641551732,
+                39.02397816559633
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.78308541081525,
+                39.04093516966509
+              ],
+              [
+                -74.79174641291686,
+                39.028943166914246
+              ],
+              [
+                -74.8003144157571,
+                39.03120916709967
+              ],
+              [
+                -74.79127441342965,
+                39.04123516945842
+              ],
+              [
+                -74.78308541081525,
+                39.04093516966509
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.72320839502206,
+                39.100492183871054
+              ],
+              [
+                -74.72459039547563,
+                39.10076618388205
+              ],
+              [
+                -74.73146839786324,
+                39.10454118443229
+              ],
+              [
+                -74.72805839679407,
+                39.104792184595766
+              ],
+              [
+                -74.72320839502206,
+                39.100492183871054
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.72990939760768,
+                39.108975185394414
+              ],
+              [
+                -74.72523839596636,
+                39.10604618494577
+              ],
+              [
+                -74.72017939426743,
+                39.10432818475858
+              ],
+              [
+                -74.72203839475188,
+                39.10236618429454
+              ],
+              [
+                -74.72990939760768,
+                39.108975185394414
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.74410540242641,
+                39.11474318611358
+              ],
+              [
+                -74.73054939820882,
+                39.11634618688734
+              ],
+              [
+                -74.72741139716375,
+                39.115442186804465
+              ],
+              [
+                -74.75107040389943,
+                39.10107618307788
+              ],
+              [
+                -74.74410540242641,
+                39.11474318611358
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.70700239029674,
+                39.108284186002855
+              ],
+              [
+                -74.77877940848748,
+                39.02308116613295
+              ],
+              [
+                -74.7827424095561,
+                39.01958016528259
+              ],
+              [
+                -74.7880524112494,
+                39.019741165141774
+              ],
+              [
+                -74.73245239734358,
+                39.08912118123167
+              ],
+              [
+                -74.7460854020019,
+                39.09524218204262
+              ],
+              [
+                -74.72933139653053,
+                39.092417182011246
+              ],
+              [
+                -74.71395639256933,
+                39.10947718602008
+              ],
+              [
+                -74.71867339452994,
+                39.11805118762689
+              ],
+              [
+                -74.70700239029674,
+                39.108284186002855
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.64923737742863,
+                39.20975520871984
+              ],
+              [
+                -74.64768437646032,
+                39.20098720697281
+              ],
+              [
+                -74.71629839387995,
+                39.11998218810112
+              ],
+              [
+                -74.69686738959945,
+                39.154978195922816
+              ],
+              [
+                -74.69929639111912,
+                39.16880519868052
+              ],
+              [
+                -74.64923737742863,
+                39.20975520871984
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.59195436271148,
+                39.274299223820414
+              ],
+              [
+                -74.59113836241984,
+                39.273705223725514
+              ],
+              [
+                -74.5954103638386,
+                39.27481122381187
+              ],
+              [
+                -74.59441836355778,
+                39.27545122397547
+              ],
+              [
+                -74.59195436271148,
+                39.274299223820414
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.55535235226007,
+                39.29629422952128
+              ],
+              [
+                -74.56102035311191,
+                39.278734225741054
+              ],
+              [
+                -74.65381337928761,
+                39.21722721010147
+              ],
+              [
+                -74.65474138008543,
+                39.22650821197329
+              ],
+              [
+                -74.6477783779998,
+                39.228864212684186
+              ],
+              [
+                -74.6468203782534,
+                39.23916321482607
+              ],
+              [
+                -74.62915537291991,
+                39.24437921647366
+              ],
+              [
+                -74.6235083714428,
+                39.250252217861885
+              ],
+              [
+                -74.6244513721304,
+                39.25740321929565
+              ],
+              [
+                -74.60073936559773,
+                39.275997223880125
+              ],
+              [
+                -74.55535235226007,
+                39.29629422952128
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.53249534595909,
+                39.31423123394013
+              ],
+              [
+                -74.53459834653029,
+                39.31242423350158
+              ],
+              [
+                -74.53909934796808,
+                39.31252423337468
+              ],
+              [
+                -74.53089934575985,
+                39.31992423515717
+              ],
+              [
+                -74.53249534595909,
+                39.31423123394013
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.4857993342288,
+                39.37202224728561
+              ],
+              [
+                -74.47190332960842,
+                39.36842124700386
+              ],
+              [
+                -74.46459632690751,
+                39.361524245832655
+              ],
+              [
+                -74.49932333773249,
+                39.357235243820696
+              ],
+              [
+                -74.4857993342288,
+                39.37202224728561
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.4300953173071,
+                39.387125252192384
+              ],
+              [
+                -74.41269431034037,
+                39.36082524738318
+              ],
+              [
+                -74.53788134712413,
+                39.30410223169101
+              ],
+              [
+                -74.510500340384,
+                39.34052324003788
+              ],
+              [
+                -74.44795132143922,
+                39.35842624574267
+              ],
+              [
+                -74.44477332061157,
+                39.36183024654251
+              ],
+              [
+                -74.44592932144822,
+                39.370480248273175
+              ],
+              [
+                -74.45839132562959,
+                39.37439724866692
+              ],
+              [
+                -74.4300953173071,
+                39.387125252192384
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.33579029022415,
+                39.44192526646142
+              ],
+              [
+                -74.33479028936911,
+                39.432025264472145
+              ],
+              [
+                -74.36699229800904,
+                39.402025257294724
+              ],
+              [
+                -74.40679430916967,
+                39.37392525025416
+              ],
+              [
+                -74.41839431332497,
+                39.38242525161346
+              ],
+              [
+                -74.40909431142971,
+                39.402125255942806
+              ],
+              [
+                -74.38899330467854,
+                39.39572525529037
+              ],
+              [
+                -74.36929229918042,
+                39.410125258874864
+              ],
+              [
+                -74.38329230405908,
+                39.41782525999155
+              ],
+              [
+                -74.35759129573816,
+                39.415425260338935
+              ],
+              [
+                -74.33819029065336,
+                39.43572526511703
+              ],
+              [
+                -74.35689129665806,
+                39.43652526467117
+              ],
+              [
+                -74.33579029022415,
+                39.44192526646142
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.18264425311513,
+                39.658511315574415
+              ],
+              [
+                -74.18666125416746,
+                39.654273314581964
+              ],
+              [
+                -74.18897925493086,
+                39.65468931459122
+              ],
+              [
+                -74.18477525378603,
+                39.65832831546767
+              ],
+              [
+                -74.18264425311513,
+                39.658511315574415
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.19792725814942,
+                39.661289315641305
+              ],
+              [
+                -74.18856525514896,
+                39.66112031591192
+              ],
+              [
+                -74.1907862552999,
+                39.65086731375514
+              ],
+              [
+                -74.20162125868012,
+                39.64937931309988
+              ],
+              [
+                -74.19792725814942,
+                39.661289315641305
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.18468625839394,
+                39.7431953327051
+              ],
+              [
+                -74.16340125125089,
+                39.73701433214519
+              ],
+              [
+                -74.17546525497454,
+                39.73458233125829
+              ],
+              [
+                -74.165388250931,
+                39.71954732853532
+              ],
+              [
+                -74.18459425729179,
+                39.72359832873139
+              ],
+              [
+                -74.18468625839394,
+                39.7431953327051
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.11789323865779,
+                39.77283634089488
+              ],
+              [
+                -74.11578523677014,
+                39.75063833646071
+              ],
+              [
+                -74.10139723247275,
+                39.756208338059075
+              ],
+              [
+                -74.13903624107087,
+                39.6932193240467
+              ],
+              [
+                -74.24048326595025,
+                39.55492229261081
+              ],
+              [
+                -74.2773712755044,
+                39.51407328308455
+              ],
+              [
+                -74.29306328017674,
+                39.507920281319
+              ],
+              [
+                -74.13971424149332,
+                39.696995324791864
+              ],
+              [
+                -74.11789323865779,
+                39.77283634089488
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.06986423572958,
+                39.99915738823785
+              ],
+              [
+                -74.07048223577098,
+                39.99632638764662
+              ],
+              [
+                -74.06678223445273,
+                39.99392638728331
+              ],
+              [
+                -74.07118223577973,
+                39.99242638683696
+              ],
+              [
+                -74.0722602365825,
+                40.000698388470326
+              ],
+              [
+                -74.06986423572958,
+                39.99915738823785
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -74.67697050963962,
+                41.349042635232124
+              ],
+              [
+                -73.89398123570861,
+                40.997206593027904
+              ],
+              [
+                -73.929182240836,
+                40.88950757061166
+              ],
+              [
+                -74.01378526045828,
+                40.75661054150873
+              ],
+              [
+                -74.02518726121731,
+                40.70592953108431
+              ],
+              [
+                -74.07998727789291,
+                40.68891152588394
+              ],
+              [
+                -74.06678727232573,
+                40.66602452178255
+              ],
+              [
+                -74.08568727892346,
+                40.67491152291651
+              ],
+              [
+                -74.09558828223864,
+                40.67711152302275
+              ],
+              [
+                -74.10298728446602,
+                40.674411522240284
+              ],
+              [
+                -74.07059227325199,
+                40.660813520621694
+              ],
+              [
+                -74.10697628549225,
+                40.66992352121679
+              ],
+              [
+                -74.08518727752094,
+                40.65331151864634
+              ],
+              [
+                -74.14377229581967,
+                40.643526514749624
+              ],
+              [
+                -74.08108728116413,
+                40.73952853588088
+              ],
+              [
+                -74.12220529346476,
+                40.72313553125923
+              ],
+              [
+                -74.13358729521298,
+                40.68991152429308
+              ],
+              [
+                -74.13927329736056,
+                40.69539952519111
+              ],
+              [
+                -74.15334730217376,
+                40.700266525685414
+              ],
+              [
+                -74.13640429608002,
+                40.68921752406122
+              ],
+              [
+                -74.16018930362296,
+                40.687210522867915
+              ],
+              [
+                -74.13998929635183,
+                40.67391152090584
+              ],
+              [
+                -74.20269031421638,
+                40.63371151083177
+              ],
+              [
+                -74.21811931504519,
+                40.561883496044835
+              ],
+              [
+                -74.25249132562784,
+                40.553713493270635
+              ],
+              [
+                -74.25188732350843,
+                40.52021148662574
+              ],
+              [
+                -74.28784333368914,
+                40.496265480656184
+              ],
+              [
+                -74.20718930429761,
+                40.435515471241466
+              ],
+              [
+                -74.17958929675177,
+                40.458715476787106
+              ],
+              [
+                -74.15778828905553,
+                40.44661547509902
+              ],
+              [
+                -74.14408928540568,
+                40.459843478192454
+              ],
+              [
+                -73.98454123098777,
+                40.40468947246194
+              ],
+              [
+                -73.98106622875767,
+                40.38493846862858
+              ],
+              [
+                -74.02408424313232,
+                40.39461746914507
+              ],
+              [
+                -74.01628224002091,
+                40.38392246726483
+              ],
+              [
+                -74.07746925817204,
+                40.357126459887574
+              ],
+              [
+                -73.97884522753824,
+                40.37595946690633
+              ],
+              [
+                -73.97869322655224,
+                40.35930246357963
+              ],
+              [
+                -74.0091842353515,
+                40.341518459017735
+              ],
+              [
+                -74.02670324132173,
+                40.347572459651914
+              ],
+              [
+                -74.03059624195906,
+                40.336671457342426
+              ],
+              [
+                -74.01238423612678,
+                40.33701845801166
+              ],
+              [
+                -74.04722124624634,
+                40.31794445304614
+              ],
+              [
+                -73.99730923091904,
+                40.330549457213266
+              ],
+              [
+                -74.00908323338065,
+                40.30701945211437
+              ],
+              [
+                -73.99548323019248,
+                40.32806145677524
+              ],
+              [
+                -73.98218322569747,
+                40.32411945642341
+              ],
+              [
+                -73.99778323140137,
+                40.336423458373375
+              ],
+              [
+                -73.97788322500054,
+                40.336318459007
+              ],
+              [
+                -73.97368322468424,
+                40.35471846282727
+              ],
+              [
+                -73.97938322978771,
+                40.41281747425584
+              ],
+              [
+                -74.01718524550157,
+                40.47571548556395
+              ],
+              [
+                -73.99568423818901,
+                40.46871648487822
+              ],
+              [
+                -73.97828423098078,
+                40.440216479764366
+              ],
+              [
+                -73.97103022421348,
+                40.36151546427441
+              ],
+              [
+                -73.97413922194497,
+                40.30329345251667
+              ],
+              [
+                -74.06481323289375,
+                39.977130383958304
+              ],
+              [
+                -74.09790223189246,
+                39.766047340168726
+              ],
+              [
+                -74.11852523942102,
+                39.78308834295303
+              ],
+              [
+                -74.09565623205798,
+                39.78221934352153
+              ],
+              [
+                -74.07930123531183,
+                39.93683937534881
+              ],
+              [
+                -74.19838627421,
+                39.95067437424196
+              ],
+              [
+                -74.10563224317285,
+                39.92647237239379
+              ],
+              [
+                -74.13038325041146,
+                39.914027369069444
+              ],
+              [
+                -74.14181125225902,
+                39.881185362056215
+              ],
+              [
+                -74.13053624818302,
+                39.872701360708795
+              ],
+              [
+                -74.16249325827123,
+                39.87017335915249
+              ],
+              [
+                -74.128557246823,
+                39.85949635810181
+              ],
+              [
+                -74.15012225311389,
+                39.848406355152974
+              ],
+              [
+                -74.19264426205811,
+                39.76363033658979
+              ],
+              [
+                -74.19580926154006,
+                39.73571833082512
+              ],
+              [
+                -74.18293525655758,
+                39.71986732802825
+              ],
+              [
+                -74.15991124888392,
+                39.71412032761198
+              ],
+              [
+                -74.15851024826483,
+                39.71098532702112
+              ],
+              [
+                -74.18726225713608,
+                39.70515232489977
+              ],
+              [
+                -74.17360525239374,
+                39.69824032394126
+              ],
+              [
+                -74.20008826010324,
+                39.684439320274926
+              ],
+              [
+                -74.18977925632335,
+                39.675538318802495
+              ],
+              [
+                -74.21317326347155,
+                39.66956231682562
+              ],
+              [
+                -74.20805326239335,
+                39.6797703190666
+              ],
+              [
+                -74.20847126263432,
+                39.681738319452776
+              ],
+              [
+                -74.2180282647728,
+                39.664984315737144
+              ],
+              [
+                -74.21796026363471,
+                39.64452431158049
+              ],
+              [
+                -74.24958827371475,
+                39.644127310468185
+              ],
+              [
+                -74.26179427549428,
+                39.605300302173276
+              ],
+              [
+                -74.2832092828519,
+                39.61484330341588
+              ],
+              [
+                -74.33687329803408,
+                39.5791872944078
+              ],
+              [
+                -74.341539298722,
+                39.56451629126876
+              ],
+              [
+                -74.29805028342396,
+                39.538406287370705
+              ],
+              [
+                -74.29879328244336,
+                39.516000282779785
+              ],
+              [
+                -74.33262429292505,
+                39.51030028051467
+              ],
+              [
+                -74.32165229005395,
+                39.52185928322894
+              ],
+              [
+                -74.33470429565168,
+                39.548200288169596
+              ],
+              [
+                -74.39411831403798,
+                39.53782628411418
+              ],
+              [
+                -74.40356231832254,
+                39.561109288545474
+              ],
+              [
+                -74.41309232077774,
+                39.55042128605752
+              ],
+              [
+                -74.41710732264646,
+                39.56117628811526
+              ],
+              [
+                -74.46152833656869,
+                39.55671328574918
+              ],
+              [
+                -74.45574933410771,
+                39.545431283642614
+              ],
+              [
+                -74.44563933148567,
+                39.556418286210786
+              ],
+              [
+                -74.43919432840691,
+                39.537720282615695
+              ],
+              [
+                -74.4183513227152,
+                39.55518028685403
+              ],
+              [
+                -74.40894231674652,
+                39.50082327608953
+              ],
+              [
+                -74.37701730559064,
+                39.48287727347397
+              ],
+              [
+                -74.41085731657253,
+                39.48642927309232
+              ],
+              [
+                -74.41882631851426,
+                39.475437270590135
+              ],
+              [
+                -74.39877731185082,
+                39.47042927022411
+              ],
+              [
+                -74.39412130968805,
+                39.45794926782989
+              ],
+              [
+                -74.40410631304988,
+                39.461245268176235
+              ],
+              [
+                -74.41089031522786,
+                39.46153326801343
+              ],
+              [
+                -74.41141831529345,
+                39.4596452676109
+              ],
+              [
+                -74.39474530895077,
+                39.440717264292466
+              ],
+              [
+                -74.4162663155618,
+                39.43615726265888
+              ],
+              [
+                -74.44394732558757,
+                39.458301266272734
+              ],
+              [
+                -74.48489733628429,
+                39.415125256120405
+              ],
+              [
+                -74.49069733717425,
+                39.39752525233639
+              ],
+              [
+                -74.46159632792717,
+                39.39792525337004
+              ],
+              [
+                -74.47889733268252,
+                39.38402524996425
+              ],
+              [
+                -74.44713432135985,
+                39.361765246452045
+              ],
+              [
+                -74.52045534606947,
+                39.386840249179286
+              ],
+              [
+                -74.52119934464204,
+                39.3562242428982
+              ],
+              [
+                -74.53829934993887,
+                39.35352424178635
+              ],
+              [
+                -74.54060334963516,
+                39.334430237806785
+              ],
+              [
+                -74.54490035157275,
+                39.344924239812094
+              ],
+              [
+                -74.5554153551095,
+                39.3484212401824
+              ],
+              [
+                -74.56980135872612,
+                39.33072423609252
+              ],
+              [
+                -74.56740135647493,
+                39.30332423056571
+              ],
+              [
+                -74.58690236325491,
+                39.31392423209559
+              ],
+              [
+                -74.57345435946878,
+                39.32299823439253
+              ],
+              [
+                -74.61823437265744,
+                39.3035272289411
+              ],
+              [
+                -74.65286938454634,
+                39.31954823108045
+              ],
+              [
+                -74.6514443825583,
+                39.29135522536041
+              ],
+              [
+                -74.61464237040309,
+                39.2830622248708
+              ],
+              [
+                -74.62686337377384,
+                39.273559222524675
+              ],
+              [
+                -74.63051637404578,
+                39.25716321904759
+              ],
+              [
+                -74.62744337257766,
+                39.24810721729333
+              ],
+              [
+                -74.647034378367,
+                39.24000021499048
+              ],
+              [
+                -74.64848437822835,
+                39.228939212676494
+              ],
+              [
+                -74.66595838374323,
+                39.22821021195421
+              ],
+              [
+                -74.67013438384407,
+                39.20557920717867
+              ],
+              [
+                -74.7104283955242,
+                39.184844201605166
+              ],
+              [
+                -74.70030839081747,
+                39.1572881962843
+              ],
+              [
+                -74.75007040614737,
+                39.14850619284928
+              ],
+              [
+                -74.71749239469027,
+                39.127965189701435
+              ],
+              [
+                -74.75838940798614,
+                39.133678189532844
+              ],
+              [
+                -74.74904540423749,
+                39.11922718687258
+              ],
+              [
+                -74.75677840625067,
+                39.1110521849399
+              ],
+              [
+                -74.75744040622614,
+                39.10671018402636
+              ],
+              [
+                -74.75341940476389,
+                39.103275183452595
+              ],
+              [
+                -74.7730384113898,
+                39.11063018431942
+              ],
+              [
+                -74.79711541807717,
+                39.09297517990232
+              ],
+              [
+                -74.76546240613736,
+                39.05789417373071
+              ],
+              [
+                -74.78161641046013,
+                39.042995170137125
+              ],
+              [
+                -74.80368441893152,
+                39.07021417500967
+              ],
+              [
+                -74.82287942443342,
+                39.05932217214029
+              ],
+              [
+                -74.80189941648462,
+                39.035375167904625
+              ],
+              [
+                -74.85042443114042,
+                39.02172716350444
+              ],
+              [
+                -74.85263843056431,
+                38.99803115855539
+              ],
+              [
+                -74.85045042973742,
+                38.99556515811972
+              ],
+              [
+                -74.8434984274555,
+                38.994125158051396
+              ],
+              [
+                -74.84097442644664,
+                38.990257157337844
+              ],
+              [
+                -74.84551542742433,
+                38.981673155421525
+              ],
+              [
+                -74.8822594384255,
+                38.969647151739
+              ],
+              [
+                -74.87781643614063,
+                38.95337114853235
+              ],
+              [
+                -74.90613444499462,
+                38.95111814713835
+              ],
+              [
+                -74.87064043333146,
+                38.94343314671982
+              ],
+              [
+                -74.96158946147631,
+                38.930905141150596
+              ],
+              [
+                -74.97199746528466,
+                38.9403781427598
+              ],
+              [
+                -74.955393463314,
+                39.001246155836895
+              ],
+              [
+                -74.89779045033977,
+                39.09882117778917
+              ],
+              [
+                -74.88716945023471,
+                39.15883419045258
+              ],
+              [
+                -74.95126547217029,
+                39.18800419430962
+              ],
+              [
+                -75.02888649716066,
+                39.194569193077406
+              ],
+              [
+                -75.03567350045991,
+                39.215423197119755
+              ],
+              [
+                -75.10728852295848,
+                39.211411193912376
+              ],
+              [
+                -75.13684453056547,
+                39.179365186368635
+              ],
+              [
+                -75.15227953597339,
+                39.18868718776087
+              ],
+              [
+                -75.17406454568629,
+                39.23943519740999
+              ],
+              [
+                -75.2416405690418,
+                39.27410520222408
+              ],
+              [
+                -75.25127857352193,
+                39.29966920711642
+              ],
+              [
+                -75.28863458478484,
+                39.289199203722895
+              ],
+              [
+                -75.3259555994905,
+                39.34053821293002
+              ],
+              [
+                -75.36466361179818,
+                39.341121211739846
+              ],
+              [
+                -75.40873962839864,
+                39.38776321973983
+              ],
+              [
+                -75.43006463522974,
+                39.38897921926308
+              ],
+              [
+                -75.46521364920135,
+                39.43893922822131
+              ],
+              [
+                -75.53684667316585,
+                39.46091023023709
+              ],
+              [
+                -75.5340156768188,
+                39.54071024651259
+              ],
+              [
+                -75.51273367219885,
+                39.578009254793756
+              ],
+              [
+                -75.55353568650732,
+                39.601705258187565
+              ],
+              [
+                -75.55944768999956,
+                39.62982126366854
+              ],
+              [
+                -75.47764266892338,
+                39.7150222836854
+              ],
+              [
+                -75.4594416660691,
+                39.76582229455503
+              ],
+              [
+                -75.35440163693968,
+                39.83992631308976
+              ],
+              [
+                -75.14542257294504,
+                39.884221329153554
+              ],
+              [
+                -75.12952156907271,
+                39.9050213338814
+              ],
+              [
+                -75.12692257147297,
+                39.961121345249204
+              ],
+              [
+                -74.94441351911574,
+                40.06321937196283
+              ],
+              [
+                -74.86091049362045,
+                40.083719378908704
+              ],
+              [
+                -74.82230948375427,
+                40.12671838883774
+              ],
+              [
+                -74.78210847056327,
+                40.12081838901554
+              ],
+              [
+                -74.72260545320874,
+                40.15001839687861
+              ],
+              [
+                -74.77070747232861,
+                40.21491740824543
+              ],
+              [
+                -74.84230949729543,
+                40.250516412931134
+              ],
+              [
+                -74.86821050817795,
+                40.29521542097405
+              ],
+              [
+                -74.93971253355531,
+                40.33801542706555
+              ],
+              [
+                -74.96550954528907,
+                40.3973454379946
+              ],
+              [
+                -75.0588505763854,
+                40.41807443890493
+              ],
+              [
+                -75.0682515867204,
+                40.54169046311307
+              ],
+              [
+                -75.11729460430836,
+                40.57321946765737
+              ],
+              [
+                -75.19235462840994,
+                40.574266465254766
+              ],
+              [
+                -75.20045363550453,
+                40.64922847979137
+              ],
+              [
+                -75.17680562952197,
+                40.67572348584815
+              ],
+              [
+                -75.2039226391636,
+                40.69150748801585
+              ],
+              [
+                -75.18208663458063,
+                40.73153049667195
+              ],
+              [
+                -75.19653464042923,
+                40.751640500129454
+              ],
+              [
+                -75.17158963401053,
+                40.77775450614571
+              ],
+              [
+                -75.13440262184166,
+                40.77377450666207
+              ],
+              [
+                -75.10850661458093,
+                40.791103510979084
+              ],
+              [
+                -75.08393060871215,
+                40.82448051840664
+              ],
+              [
+                -75.09578661388738,
+                40.84709052243982
+              ],
+              [
+                -75.0660166043605,
+                40.84760052357982
+              ],
+              [
+                -75.05103160064303,
+                40.86567152765604
+              ],
+              [
+                -75.13470363399321,
+                40.97204754560617
+              ],
+              [
+                -75.13109863396195,
+                40.99047254934312
+              ],
+              [
+                -75.02577860312182,
+                41.03981456270105
+              ],
+              [
+                -75.0111346001062,
+                41.06753056863797
+              ],
+              [
+                -74.96912558776836,
+                41.0868125738807
+              ],
+              [
+                -74.99181659521287,
+                41.08914157354168
+              ],
+              [
+                -74.98221359329266,
+                41.108254577614765
+              ],
+              [
+                -74.92317057611496,
+                41.13815458552476
+              ],
+              [
+                -74.88214156551291,
+                41.1808445952962
+              ],
+              [
+                -74.85715356163851,
+                41.248983609460026
+              ],
+              [
+                -74.79414254575354,
+                41.321196625726316
+              ],
+              [
+                -74.7532415340863,
+                41.34613163200637
+              ],
+              [
+                -74.67697050963962,
+                41.349042635232124
+              ]
+            ],
+            [
+              [
+                -74.04989823307152,
+                40.06672040251035
+              ],
+              [
+                -74.1070252506695,
+                40.05383039804154
+              ],
+              [
+                -74.12199125606423,
+                40.06458539971631
+              ],
+              [
+                -74.1342852600347,
+                40.06512439942106
+              ],
+              [
+                -74.12677325689243,
+                40.05191739700791
+              ],
+              [
+                -74.05706223445034,
+                40.05016439894041
+              ],
+              [
+                -74.08618324169309,
+                40.01242539037987
+              ],
+              [
+                -74.14041426020476,
+                40.03286539272187
+              ],
+              [
+                -74.12548525479698,
+                40.02162839094728
+              ],
+              [
+                -74.14357726041172,
+                40.018350389692735
+              ],
+              [
+                -74.10694524836256,
+                40.01272238975962
+              ],
+              [
+                -74.14968026164392,
+                40.00532538686644
+              ],
+              [
+                -74.13082625439625,
+                39.983540383091245
+              ],
+              [
+                -74.1108842484613,
+                39.99172638539609
+              ],
+              [
+                -74.12568425252688,
+                39.9795263824499
+              ],
+              [
+                -74.1105782469741,
+                39.966622380340276
+              ],
+              [
+                -74.12754025216408,
+                39.96223037889844
+              ],
+              [
+                -74.11059424668694,
+                39.96133237927199
+              ],
+              [
+                -74.11398524708635,
+                39.948906376652076
+              ],
+              [
+                -74.08028223598897,
+                39.94341937664597
+              ],
+              [
+                -74.08545823878963,
+                39.964123380657796
+              ],
+              [
+                -74.04989823307152,
+                40.06672040251035
+              ]
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "importance": null,
+        "feature_code": "ADM1H",
+        "id": "568d928724149ac9",
+        "population": null,
+        "is_composite": null,
+        "name": "New Jersey test",
+        "area": 7545,
+        "admin": [],
+        "is_primary": true,
+        "alternate": [
+          {
+            "lang": "Foobar bar bar",
+            "type": "bar",
+            "name": "Some thing Foo"
+          }
+        ],
+        "feature_code_name": "historical first-order administrative division",
+        "timeframe": {
+          "end_range": "0",
+          "start": "1793-09-04",
+          "end": "2010-12-31",
+          "start_range": "0"
+        },
+        "uris": [
+          "http://publications.newberry.org/ahcbp/downloads/united_states.html.states.nj_state.1"
+        ]
+      }
+    }
+  ],
+  "max_score": 1.5804006,
+  "page": 1,
+  "per_page": 100,
+  "total": 28,
+  "type": "FeatureCollection",
+  "pages": 1
+}
